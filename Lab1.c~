@@ -1,5 +1,5 @@
 //-----------------------------------Simple Shall program in c.
-//the only thing is , My > is not working with pipe. > its working for 1 commnad & '.' (current directory) can not work with c program.
+
 
 
 #include<stdio.h>
