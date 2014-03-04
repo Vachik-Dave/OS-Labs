@@ -18,8 +18,8 @@ LINK    = gcc
 #INC  = -I.
 
 ## FILES
-OBJECTS1 = Lab1.o
-TARGET1  = Lab1
+OBJECTS1 = Lab1_2.o
+TARGET1  = Lab1_2
 
 
 ## Implicit rules
